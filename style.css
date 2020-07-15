@@ -1,0 +1,99 @@
+.header {
+    background-color: royalblue;
+    color: white;
+}
+.phone {
+    float: right;
+}
+.phone i {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.phone h5 {
+    width: 120px;
+}
+.address i {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.address {
+    float: left;
+}
+.address h5 {
+    width: 500px;
+}
+.my-caption h2{
+    color: royalblue;
+    margin-bottom: 20px;
+}
+.menu {
+    background-color: royalblue;
+}
+nav.mynav {
+    background-color: royalblue;
+    border: none;
+    color: white !important;
+    margin: 0px;
+}
+ul.navtext li a {
+    color: white !important;
+}
+a.logo {
+    color: white !important;
+}
+ul.navtext li a {
+    text-align: center;
+    margin-left: 0px;
+    font-size: 15px;
+}
+ul.navtext li {
+    margin-left: 50px;
+}
+.profile {
+    margin-top: 50px;
+}
+.profile-img {
+    text-align: right;
+}
+.col-md-6.welcome h5 {
+    font: small-caption;
+}
+.welcome h2 {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: royalblue;
+}
+.mygallery img {
+    width: 100%;
+}
+.gallery {
+    margin-top: 50px;
+}
+.gallery h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    color: royalblue;
+}
+.Assignemt {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Assignemt h2 {
+    color: royalblue;
+    margin-bottom: 20px;
+}
+.footer {
+    margin-top: 30px;
+    background-color: royalblue;
+    color: white;
+    padding: 30px 0px 32px 0px;
+}
+.footer-det p a {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
